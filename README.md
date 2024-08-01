@@ -6,7 +6,7 @@
 
 This project has been forked from [Jonathan Tribouharet's BRLMPrinterKit](https://github.com/jonathantribouharet/BRLMPrinterKit).
 
-This project is only a Pod for the Brother SDK v4.6.1.
+This project is only a Pod for the Brother SDK v4.7.2.
 
 More information here:
 [https://support.brother.com/g/s/es/htmldoc/mobilesdk/index.html](https://support.brother.com/g/s/es/htmldoc/mobilesdk/index.html)
