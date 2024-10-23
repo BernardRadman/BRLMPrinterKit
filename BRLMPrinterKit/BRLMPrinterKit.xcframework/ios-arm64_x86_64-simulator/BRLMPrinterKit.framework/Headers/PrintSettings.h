@@ -56,6 +56,7 @@
 // RJ/TD
 - (NSString *)stringFromCurrentCoolingDelayEnabled;
 - (NSString *)stringFromCurrentCutterOptions;
+- (NSString *)stringFromCurrentResolution;
 
 //*** Properties
 // NOTE: If you wish to get/set any model-dependent properties, then you
@@ -112,12 +113,6 @@
 #define keyRJ4030AiPrintSettings @"RJ-4030Ai Print Settings"
 #define keyRJ4230BPrintSettings @"RJ-4230B Print Settings"
 #define keyRJ4250WBPrintSettings @"RJ-4250WB Print Settings"
-#define keyTD2120NPrintSettings @"TD-2120N Print Settings"
-#define keyTD2125NPrintSettings @"TD-2125N Print Settings"
-#define keyTD2125NWBPrintSettings @"TD-2125NWB Print Settings"
-#define keyTD2130NPrintSettings @"TD-2130N Print Settings"
-#define keyTD2135NPrintSettings @"TD-2135N Print Settings"
-#define keyTD2135NWBPrintSettings @"TD-2135NWB Print Settings"
 #define keyRJ3050PrintSettings @"RJ-3050 Print Settings"
 #define keyRJ3050AiPrintSettings @"RJ-3050Ai Print Settings"
 #define keyRJ3150PrintSettings @"RJ-3150 Print Settings"
@@ -125,9 +120,20 @@
 #define keyRJ2050PrintSettings @"RJ-2050 Print Settings"
 #define keyRJ2140PrintSettings @"RJ-2140 Print Settings"
 #define keyRJ2150PrintSettings @"RJ-2150 Print Settings"
-#define keyTD4550DNWBPrintSettings @"TD-4550DNWB Print Settings"
 #define keyRJ3230BPrintSettings @"RJ-3230B Print Settings"
 #define keyRJ3250WBPrintSettings @"RJ-3250WB Print Settings"
+#define keyTD2120NPrintSettings @"TD-2120N Print Settings"
+#define keyTD2125NPrintSettings @"TD-2125N Print Settings"
+#define keyTD2125NWBPrintSettings @"TD-2125NWB Print Settings"
+#define keyTD2130NPrintSettings @"TD-2130N Print Settings"
+#define keyTD2135NPrintSettings @"TD-2135N Print Settings"
+#define keyTD2135NWBPrintSettings @"TD-2135NWB Print Settings"
+#define keyTD2320DPrintSettings @"TD-2320D Print Settings"
+#define keyTD2320DFPrintSettings @"TD-2320DF Print Settings"
+#define keyTD2350DPrintSettings @"TD-2350D Print Settings"
+#define keyTD2350DFPrintSettings @"TD-2350DF Print Settings"
+#define keyTD2350DSAPrintSettings @"TD-2350DSA Print Settings"
+#define keyTD4550DNWBPrintSettings @"TD-4550DNWB Print Settings"
 
 // common properties from PrintSettings superclass
 #define keyChannelType @"ChannelType"
@@ -180,6 +186,9 @@
 // TD2 specific keys
 #define keyPeelerEnabled @"Peeler Enabled"
 #define keyInvert180Degrees @"Invert 180 Degrees"
+
+// TD23 specific keys
+#define keyResolution @"Resolution"
 
 // RJ42 specific keys
 #define keyCoolingDelayEnabled @"Cooling Delay Enabled"
@@ -245,6 +254,11 @@ typedef enum
     kPrinterModelTD2125NWB,
     kPrinterModelTD2135N,
     kPrinterModelTD2135NWB,
+    kPrinterModelTD2320D,   // NOTE: Each of these TD23xxx models can be either 203 or 300 dpi.
+    kPrinterModelTD2320DF,
+    kPrinterModelTD2350D,
+    kPrinterModelTD2350DF,
+    kPrinterModelTD2350DSA,
     // Add new models at the END of the list, see above!
 
 } PRINTERMODEL;
@@ -381,6 +395,13 @@ typedef enum
     
 } PRINT_SPEED_OPTION;
 
+// NOTE: This is only used with models which can have variable resolution, e.g. TD-23xx models.
+typedef enum
+{
+    kResolution203 = 203,
+    kResolution300 = 300
+} RESOLUTION;
+
 //*********************************************************************
 
 
@@ -496,7 +517,8 @@ typedef struct
 - (NSString *)stringFromCurrentPrintSpeed;
 // RJ/TD
 - (NSString *)stringFromCurrentCoolingDelayEnabled;
-- (NSString *)stringFromCurrentCutterOptions; // TD-4550DNWB only for now.
+- (NSString *)stringFromCurrentCutterOptions; // TD-4550DNWB and all TD23xx only for now.
+- (NSString *)stringFromCurrentResolution; // all TD23xx only for now.
 
 
 //*** generate strings from SPECIFIC constants, for convenience

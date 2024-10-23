@@ -37,6 +37,7 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic) BOOL autoCut;
 @property (nonatomic) BOOL cutAtEnd;
 @property (nonatomic) UInt8 autoCutForEachPageCount;
+@property (nonatomic) NSString* customRecord;
 
 // override
 - (nullable instancetype)initDefaultPrintSettingsWithPrinterModel:(BRLMPrinterModel)model;

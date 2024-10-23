@@ -527,6 +527,22 @@ typedef struct _PTSTATUSINFO {
 - (CGRect) getPaperRectFromCurrentSettings;
 
 //********************************************************************************
+// detectPrinterResolutionForModel
+// Used to determine resolution of print head installed to TD23xx models ONLY
+// 203, 300 models have different byModelCode in Status Response
+// Each of these models supports only 1 resolution at a time.
+//
+// RETURNS:
+// * RET_TRUE on success, detectedResolution is VALID
+// * Other error code if FAILURE. detectedResolution is INVALID
+- (int) detectPrinterResolutionForModel:(PRINTERMODEL)model
+                            channelType:(CHANNELTYPE)channelType
+                          channelString:(NSString *)channelString // IPAddress or BTDeviceName
+                     detectedResolution:(RESOLUTION *)pResolution;
+//********************************************************************************
+
+
+//********************************************************************************
 // SIMPLE APIs
 //
 // These printing APIs will handle the whole job for you (including openChannel, sendDataToChannel, closeChannel).

@@ -10,7 +10,7 @@
 		</data>
 		<key>ios-arm64/BRLMPrinterKit.framework/BRLMPrinterKit</key>
 		<data>
-		WLCJDtL+Xmlvi2YyG6ewIWO0RfU=
+		qa8A2zk3yKKaaRD393bs2XVUwMk=
 		</data>
 		<key>ios-arm64/BRLMPrinterKit.framework/BluetoothViewController.nib</key>
 		<data>
@@ -30,15 +30,15 @@
 		</data>
 		<key>ios-arm64/BRLMPrinterKit.framework/Headers/BMSPrinterDriver.h</key>
 		<data>
-		xNnk10NI4aKw+1kV76qgXQfJ0U8=
+		yoMbjrxxm4dT8sw8PVAA1NpdU+o=
 		</data>
 		<key>ios-arm64/BRLMPrinterKit.framework/Headers/BMSPrinterKit.h</key>
 		<data>
-		ktyZ2PF1m1Htb1S+2jM/+eX4tbs=
+		DMh3tcnxGO3PO+zf7t0NvKN+Gqw=
 		</data>
 		<key>ios-arm64/BRLMPrinterKit.framework/Headers/BRCustomPaperInfoCommand.h</key>
 		<data>
-		dlkKhGrM+dPrxWkJINgKjHejXOE=
+		24h6IdNooeUXuYQ/xPctpygYUSY=
 		</data>
 		<key>ios-arm64/BRLMPrinterKit.framework/Headers/BRLMBLESearchOption.h</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>ios-arm64/BRLMPrinterKit.framework/Headers/BRLMCustomPaperSize.h</key>
 		<data>
-		TzdkLl7GnBtGFBfRJCCgYY0bz1k=
+		bYsS3A7WxhYg8A1agvxglMKkVx0=
 		</data>
 		<key>ios-arm64/BRLMPrinterKit.framework/Headers/BRLMError.h</key>
 		<data>
@@ -110,7 +110,7 @@
 		</data>
 		<key>ios-arm64/BRLMPrinterKit.framework/Headers/BRLMPrintError.h</key>
 		<data>
-		TBUEOS92sWwPwUTr3XCZn2VLj4E=
+		GqBnAcA5sCFh9PzZfFsNf0BA3us=
 		</data>
 		<key>ios-arm64/BRLMPrinterKit.framework/Headers/BRLMPrintImageSettings.h</key>
 		<data>
@@ -126,7 +126,7 @@
 		</data>
 		<key>ios-arm64/BRLMPrinterKit.framework/Headers/BRLMPrinterDefine.h</key>
 		<data>
-		IKwA/iWhcoKGFBABWHssSHE2tyI=
+		APcB5Vn9gNEWYGPM/x6i3Ra7aHU=
 		</data>
 		<key>ios-arm64/BRLMPrinterKit.framework/Headers/BRLMPrinterDriver.h</key>
 		<data>
@@ -162,7 +162,7 @@
 		</data>
 		<key>ios-arm64/BRLMPrinterKit.framework/Headers/BRLMPrinterStatus.h</key>
 		<data>
-		O0PD08FZRNxH28iuJYp+fTea6/M=
+		WGPUBirFZOFqisPQCqJWVcWm1b4=
 		</data>
 		<key>ios-arm64/BRLMPrinterKit.framework/Headers/BRLMPtouchDeviceDependedDataHeader.h</key>
 		<data>
@@ -198,7 +198,7 @@
 		</data>
 		<key>ios-arm64/BRLMPrinterKit.framework/Headers/BRLMTDPrintSettings.h</key>
 		<data>
-		39DjPyh7dH3lEb2GrTfzHKl4E30=
+		yBjWVq5hp52iDb1om3kmIC/Oi/M=
 		</data>
 		<key>ios-arm64/BRLMPrinterKit.framework/Headers/BRLMTDTemplatePrintSettings.h</key>
 		<data>
@@ -246,11 +246,11 @@
 		</data>
 		<key>ios-arm64/BRLMPrinterKit.framework/Headers/BRPtouchPrintInfo.h</key>
 		<data>
-		4GoUqQ/U2RoeRWXW8ZtBcskVUac=
+		xf+DdCConVfNAJQVhiH3rON/dqo=
 		</data>
 		<key>ios-arm64/BRLMPrinterKit.framework/Headers/BRPtouchPrinter.h</key>
 		<data>
-		6aIEP5XORulSGtGrmVe0ixd/FWY=
+		ftBWADbXN7iFIVCoiMt7oPtiqtI=
 		</data>
 		<key>ios-arm64/BRLMPrinterKit.framework/Headers/BRPtouchPrinterData.h</key>
 		<data>
@@ -270,7 +270,7 @@
 		</data>
 		<key>ios-arm64/BRLMPrinterKit.framework/Headers/GenericMobileLabelModelPrintSettings.h</key>
 		<data>
-		wueofUMkX+gL2gYVwB45I1582Y0=
+		TFnWrJK9eP/c9kWQkDkSxxYX97o=
 		</data>
 		<key>ios-arm64/BRLMPrinterKit.framework/Headers/GenericMobileLabelModelPrintSettingsViewController.h</key>
 		<data>
@@ -342,11 +342,11 @@
 		</data>
 		<key>ios-arm64/BRLMPrinterKit.framework/Headers/PrintSettings.h</key>
 		<data>
-		/JqsyCH0/c5ZApMVs5kNNuEra3w=
+		YWOrexQpuZcVBchS0XTiVjdlono=
 		</data>
 		<key>ios-arm64/BRLMPrinterKit.framework/Headers/PrintSettingsViewController.h</key>
 		<data>
-		WBPFU45tQMt0L0NP/vd3RcZCa28=
+		rVp+Mc+s5S8U0ZSoVMSKT0mBmHA=
 		</data>
 		<key>ios-arm64/BRLMPrinterKit.framework/Headers/RJ2050PrintSettings.h</key>
 		<data>
@@ -438,7 +438,7 @@
 		</data>
 		<key>ios-arm64/BRLMPrinterKit.framework/Headers/RJ4230BPrintSettings.h</key>
 		<data>
-		2Txw9X4A67JsjmeXsre8vOmnYOA=
+		wesEgELZ9G/hjS/gV2wrCzLglmk=
 		</data>
 		<key>ios-arm64/BRLMPrinterKit.framework/Headers/RJ4230BPrintSettingsViewController.h</key>
 		<data>
@@ -446,7 +446,7 @@
 		</data>
 		<key>ios-arm64/BRLMPrinterKit.framework/Headers/RJ4250WBPrintSettings.h</key>
 		<data>
-		R2P2AwETMx65Nv21FKlBefP3ojE=
+		GiLEyt1gVvETWHHZEXqcVabuqio=
 		</data>
 		<key>ios-arm64/BRLMPrinterKit.framework/Headers/RJ4250WBPrintSettingsViewController.h</key>
 		<data>
@@ -500,6 +500,46 @@
 		<data>
 		RGi3QZHWoa6fWFIY/7qTZJf/+/w=
 		</data>
+		<key>ios-arm64/BRLMPrinterKit.framework/Headers/TD2320DFPrintSettings.h</key>
+		<data>
+		eS9c0+ydold8C2jtOLkkReGqcgQ=
+		</data>
+		<key>ios-arm64/BRLMPrinterKit.framework/Headers/TD2320DFPrintSettingsViewController.h</key>
+		<data>
+		IDPK2Zh97t1trvBH3716L8Gi3YE=
+		</data>
+		<key>ios-arm64/BRLMPrinterKit.framework/Headers/TD2320DPrintSettings.h</key>
+		<data>
+		eqiV58fpc/xfg1Ha+AdrNqlG6X4=
+		</data>
+		<key>ios-arm64/BRLMPrinterKit.framework/Headers/TD2320DPrintSettingsViewController.h</key>
+		<data>
+		kO2COmn8MT0wuHQ13ucNzUivXFA=
+		</data>
+		<key>ios-arm64/BRLMPrinterKit.framework/Headers/TD2350DFPrintSettings.h</key>
+		<data>
+		YiQ1GWyS2zr45XyD2PSZG126ESs=
+		</data>
+		<key>ios-arm64/BRLMPrinterKit.framework/Headers/TD2350DFPrintSettingsViewController.h</key>
+		<data>
+		B0gOhdWCeiaJyOZFfb002DO/Drc=
+		</data>
+		<key>ios-arm64/BRLMPrinterKit.framework/Headers/TD2350DPrintSettings.h</key>
+		<data>
+		/5yL2XPO9ntDQpVbGZOoz9HJ1pk=
+		</data>
+		<key>ios-arm64/BRLMPrinterKit.framework/Headers/TD2350DPrintSettingsViewController.h</key>
+		<data>
+		YgJ/tfoq9RL2ut2xTDVfCX2rxyk=
+		</data>
+		<key>ios-arm64/BRLMPrinterKit.framework/Headers/TD2350DSAPrintSettings.h</key>
+		<data>
+		l6DQr0fqb5IXnWzcsxZ3CqiPSUA=
+		</data>
+		<key>ios-arm64/BRLMPrinterKit.framework/Headers/TD2350DSAPrintSettingsViewController.h</key>
+		<data>
+		nODrWJ/UXuo3vsTgdWalYdSg8vM=
+		</data>
 		<key>ios-arm64/BRLMPrinterKit.framework/Headers/TD4550DNWBPrintSettings.h</key>
 		<data>
 		6t2ttCygdgJ9BnRzHtp1nG6PXD4=
@@ -518,7 +558,7 @@
 		</data>
 		<key>ios-arm64/BRLMPrinterKit.framework/Info.plist</key>
 		<data>
-		aHDRbDAQbLjHiqT1q6gHcJLFaJw=
+		aDmAzHFQcSTkblM9r9/RpCEm6+4=
 		</data>
 		<key>ios-arm64/BRLMPrinterKit.framework/MarginViewController.nib</key>
 		<data>
@@ -555,6 +595,10 @@
 		<key>ios-arm64/BRLMPrinterKit.framework/PrivacyInfo.xcprivacy</key>
 		<data>
 		Z5D18LwLpph/aJ/sMTtoTjVZgLw=
+		</data>
+		<key>ios-arm64/BRLMPrinterKit.framework/ResolutionViewController.nib</key>
+		<data>
+		p4c72H6yw/d9kJNwHiHznRXx35A=
 		</data>
 		<key>ios-arm64/BRLMPrinterKit.framework/ThresholdViewController.nib</key>
 		<data>
@@ -628,6 +672,70 @@
 		<data>
 		mYzVB1xcxaiG+GAFlMm6A51hzRE=
 		</data>
+		<key>ios-arm64/BRLMPrinterKit.framework/bst2312ad.txt</key>
+		<data>
+		abN+zsK66sFdR9m+4WnwjfisQCI=
+		</data>
+		<key>ios-arm64/BRLMPrinterKit.framework/bst2313ad.txt</key>
+		<data>
+		1zTykdix/F/Pynz/lv4Szir+Ri0=
+		</data>
+		<key>ios-arm64/BRLMPrinterKit.framework/bst2322ad.txt</key>
+		<data>
+		xVAk0ekfVdCOVVu9aJUQ3b+KIr0=
+		</data>
+		<key>ios-arm64/BRLMPrinterKit.framework/bst2323ad.txt</key>
+		<data>
+		DcYFeIvlHPA4uSlgCxy1ZlopHtY=
+		</data>
+		<key>ios-arm64/BRLMPrinterKit.framework/bst232f2ad.txt</key>
+		<data>
+		sJD2XZ2FUZRSgjvFiHH/VzMk97k=
+		</data>
+		<key>ios-arm64/BRLMPrinterKit.framework/bst232f3ad.txt</key>
+		<data>
+		Io7hC4py4s1RKghfGHMh/ULMiCU=
+		</data>
+		<key>ios-arm64/BRLMPrinterKit.framework/bst232s2ad.txt</key>
+		<data>
+		ru+2/08pcO45Gs9HeJ4xlX3iaBA=
+		</data>
+		<key>ios-arm64/BRLMPrinterKit.framework/bst232s3ad.txt</key>
+		<data>
+		TJdpr7tCDTvsoxt2vuwERfS60vQ=
+		</data>
+		<key>ios-arm64/BRLMPrinterKit.framework/bst2352ad.txt</key>
+		<data>
+		Alw8134wRtQj4deFpvsAWnW6drY=
+		</data>
+		<key>ios-arm64/BRLMPrinterKit.framework/bst2353ad.txt</key>
+		<data>
+		osqXGVLMo2KEllPjO0X2ZGqARwI=
+		</data>
+		<key>ios-arm64/BRLMPrinterKit.framework/bst235f2ad.txt</key>
+		<data>
+		yPXNmkWokaGuov/C9lsti5dGp7Y=
+		</data>
+		<key>ios-arm64/BRLMPrinterKit.framework/bst235f3ad.txt</key>
+		<data>
+		ZcaejnQucLax5KZ5t19wdMlxoRQ=
+		</data>
+		<key>ios-arm64/BRLMPrinterKit.framework/bst235fs2ad.txt</key>
+		<data>
+		LXggvWiaVUXv3lv7+45p1nSO5pw=
+		</data>
+		<key>ios-arm64/BRLMPrinterKit.framework/bst235fs3ad.txt</key>
+		<data>
+		OuLxPTmnhzF7KGazcMplMp0LF1I=
+		</data>
+		<key>ios-arm64/BRLMPrinterKit.framework/bst235s2ad.txt</key>
+		<data>
+		CN0BhBJW9f9oOjdFPRbbCD+EGCQ=
+		</data>
+		<key>ios-arm64/BRLMPrinterKit.framework/bst235s3ad.txt</key>
+		<data>
+		mBufK9+IYgV+MnW2f1xsSmOQJPg=
+		</data>
 		<key>ios-arm64/BRLMPrinterKit.framework/bst40ad.txt</key>
 		<data>
 		ZyN28Ax8pNiLTJn6mapbqabkv2A=
@@ -679,7 +787,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/BRLMPrinterKit</key>
 		<data>
-		+Nlfv3CtljU4OvwFHwIEetnyofg=
+		8TdAOQIt/nfTICCqytQ++RkcKec=
 		</data>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/BluetoothViewController.nib</key>
 		<data>
@@ -699,15 +807,15 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/BMSPrinterDriver.h</key>
 		<data>
-		xNnk10NI4aKw+1kV76qgXQfJ0U8=
+		yoMbjrxxm4dT8sw8PVAA1NpdU+o=
 		</data>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/BMSPrinterKit.h</key>
 		<data>
-		ktyZ2PF1m1Htb1S+2jM/+eX4tbs=
+		DMh3tcnxGO3PO+zf7t0NvKN+Gqw=
 		</data>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/BRCustomPaperInfoCommand.h</key>
 		<data>
-		dlkKhGrM+dPrxWkJINgKjHejXOE=
+		24h6IdNooeUXuYQ/xPctpygYUSY=
 		</data>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/BRLMBLESearchOption.h</key>
 		<data>
@@ -723,7 +831,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/BRLMCustomPaperSize.h</key>
 		<data>
-		TzdkLl7GnBtGFBfRJCCgYY0bz1k=
+		bYsS3A7WxhYg8A1agvxglMKkVx0=
 		</data>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/BRLMError.h</key>
 		<data>
@@ -779,7 +887,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/BRLMPrintError.h</key>
 		<data>
-		TBUEOS92sWwPwUTr3XCZn2VLj4E=
+		GqBnAcA5sCFh9PzZfFsNf0BA3us=
 		</data>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/BRLMPrintImageSettings.h</key>
 		<data>
@@ -795,7 +903,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/BRLMPrinterDefine.h</key>
 		<data>
-		IKwA/iWhcoKGFBABWHssSHE2tyI=
+		APcB5Vn9gNEWYGPM/x6i3Ra7aHU=
 		</data>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/BRLMPrinterDriver.h</key>
 		<data>
@@ -831,7 +939,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/BRLMPrinterStatus.h</key>
 		<data>
-		O0PD08FZRNxH28iuJYp+fTea6/M=
+		WGPUBirFZOFqisPQCqJWVcWm1b4=
 		</data>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/BRLMPtouchDeviceDependedDataHeader.h</key>
 		<data>
@@ -867,7 +975,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/BRLMTDPrintSettings.h</key>
 		<data>
-		39DjPyh7dH3lEb2GrTfzHKl4E30=
+		yBjWVq5hp52iDb1om3kmIC/Oi/M=
 		</data>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/BRLMTDTemplatePrintSettings.h</key>
 		<data>
@@ -915,11 +1023,11 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/BRPtouchPrintInfo.h</key>
 		<data>
-		4GoUqQ/U2RoeRWXW8ZtBcskVUac=
+		xf+DdCConVfNAJQVhiH3rON/dqo=
 		</data>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/BRPtouchPrinter.h</key>
 		<data>
-		6aIEP5XORulSGtGrmVe0ixd/FWY=
+		ftBWADbXN7iFIVCoiMt7oPtiqtI=
 		</data>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/BRPtouchPrinterData.h</key>
 		<data>
@@ -939,7 +1047,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/GenericMobileLabelModelPrintSettings.h</key>
 		<data>
-		wueofUMkX+gL2gYVwB45I1582Y0=
+		TFnWrJK9eP/c9kWQkDkSxxYX97o=
 		</data>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/GenericMobileLabelModelPrintSettingsViewController.h</key>
 		<data>
@@ -1011,11 +1119,11 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/PrintSettings.h</key>
 		<data>
-		/JqsyCH0/c5ZApMVs5kNNuEra3w=
+		YWOrexQpuZcVBchS0XTiVjdlono=
 		</data>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/PrintSettingsViewController.h</key>
 		<data>
-		WBPFU45tQMt0L0NP/vd3RcZCa28=
+		rVp+Mc+s5S8U0ZSoVMSKT0mBmHA=
 		</data>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/RJ2050PrintSettings.h</key>
 		<data>
@@ -1107,7 +1215,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/RJ4230BPrintSettings.h</key>
 		<data>
-		2Txw9X4A67JsjmeXsre8vOmnYOA=
+		wesEgELZ9G/hjS/gV2wrCzLglmk=
 		</data>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/RJ4230BPrintSettingsViewController.h</key>
 		<data>
@@ -1115,7 +1223,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/RJ4250WBPrintSettings.h</key>
 		<data>
-		R2P2AwETMx65Nv21FKlBefP3ojE=
+		GiLEyt1gVvETWHHZEXqcVabuqio=
 		</data>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/RJ4250WBPrintSettingsViewController.h</key>
 		<data>
@@ -1169,6 +1277,46 @@
 		<data>
 		RGi3QZHWoa6fWFIY/7qTZJf/+/w=
 		</data>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/TD2320DFPrintSettings.h</key>
+		<data>
+		eS9c0+ydold8C2jtOLkkReGqcgQ=
+		</data>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/TD2320DFPrintSettingsViewController.h</key>
+		<data>
+		IDPK2Zh97t1trvBH3716L8Gi3YE=
+		</data>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/TD2320DPrintSettings.h</key>
+		<data>
+		eqiV58fpc/xfg1Ha+AdrNqlG6X4=
+		</data>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/TD2320DPrintSettingsViewController.h</key>
+		<data>
+		kO2COmn8MT0wuHQ13ucNzUivXFA=
+		</data>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/TD2350DFPrintSettings.h</key>
+		<data>
+		YiQ1GWyS2zr45XyD2PSZG126ESs=
+		</data>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/TD2350DFPrintSettingsViewController.h</key>
+		<data>
+		B0gOhdWCeiaJyOZFfb002DO/Drc=
+		</data>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/TD2350DPrintSettings.h</key>
+		<data>
+		/5yL2XPO9ntDQpVbGZOoz9HJ1pk=
+		</data>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/TD2350DPrintSettingsViewController.h</key>
+		<data>
+		YgJ/tfoq9RL2ut2xTDVfCX2rxyk=
+		</data>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/TD2350DSAPrintSettings.h</key>
+		<data>
+		l6DQr0fqb5IXnWzcsxZ3CqiPSUA=
+		</data>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/TD2350DSAPrintSettingsViewController.h</key>
+		<data>
+		nODrWJ/UXuo3vsTgdWalYdSg8vM=
+		</data>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/TD4550DNWBPrintSettings.h</key>
 		<data>
 		6t2ttCygdgJ9BnRzHtp1nG6PXD4=
@@ -1187,7 +1335,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Info.plist</key>
 		<data>
-		8xTTpUIKl1JfS6PIdmrxpSqIRjQ=
+		j2j0AWzEgxgRGbeiTNNlvkrkPHE=
 		</data>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/MarginViewController.nib</key>
 		<data>
@@ -1225,13 +1373,17 @@
 		<data>
 		Z5D18LwLpph/aJ/sMTtoTjVZgLw=
 		</data>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/ResolutionViewController.nib</key>
+		<data>
+		p4c72H6yw/d9kJNwHiHznRXx35A=
+		</data>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/ThresholdViewController.nib</key>
 		<data>
 		zQ2aJ8a6/RSNHIe/AUY6IqJ/Xuc=
 		</data>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/_CodeSignature/CodeResources</key>
 		<data>
-		0GuQQW7LrrhmlWcH5gKv/ZVkfk4=
+		PfiT8XR0pWoC8x4XJB92PwiveKc=
 		</data>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/bsj673ad.ptd</key>
 		<data>
@@ -1301,6 +1453,70 @@
 		<data>
 		mYzVB1xcxaiG+GAFlMm6A51hzRE=
 		</data>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/bst2312ad.txt</key>
+		<data>
+		abN+zsK66sFdR9m+4WnwjfisQCI=
+		</data>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/bst2313ad.txt</key>
+		<data>
+		1zTykdix/F/Pynz/lv4Szir+Ri0=
+		</data>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/bst2322ad.txt</key>
+		<data>
+		xVAk0ekfVdCOVVu9aJUQ3b+KIr0=
+		</data>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/bst2323ad.txt</key>
+		<data>
+		DcYFeIvlHPA4uSlgCxy1ZlopHtY=
+		</data>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/bst232f2ad.txt</key>
+		<data>
+		sJD2XZ2FUZRSgjvFiHH/VzMk97k=
+		</data>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/bst232f3ad.txt</key>
+		<data>
+		Io7hC4py4s1RKghfGHMh/ULMiCU=
+		</data>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/bst232s2ad.txt</key>
+		<data>
+		ru+2/08pcO45Gs9HeJ4xlX3iaBA=
+		</data>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/bst232s3ad.txt</key>
+		<data>
+		TJdpr7tCDTvsoxt2vuwERfS60vQ=
+		</data>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/bst2352ad.txt</key>
+		<data>
+		Alw8134wRtQj4deFpvsAWnW6drY=
+		</data>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/bst2353ad.txt</key>
+		<data>
+		osqXGVLMo2KEllPjO0X2ZGqARwI=
+		</data>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/bst235f2ad.txt</key>
+		<data>
+		yPXNmkWokaGuov/C9lsti5dGp7Y=
+		</data>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/bst235f3ad.txt</key>
+		<data>
+		ZcaejnQucLax5KZ5t19wdMlxoRQ=
+		</data>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/bst235fs2ad.txt</key>
+		<data>
+		LXggvWiaVUXv3lv7+45p1nSO5pw=
+		</data>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/bst235fs3ad.txt</key>
+		<data>
+		OuLxPTmnhzF7KGazcMplMp0LF1I=
+		</data>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/bst235s2ad.txt</key>
+		<data>
+		CN0BhBJW9f9oOjdFPRbbCD+EGCQ=
+		</data>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/bst235s3ad.txt</key>
+		<data>
+		mBufK9+IYgV+MnW2f1xsSmOQJPg=
+		</data>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/bst40ad.txt</key>
 		<data>
 		ZyN28Ax8pNiLTJn6mapbqabkv2A=
@@ -1364,11 +1580,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WLCJDtL+Xmlvi2YyG6ewIWO0RfU=
+			qa8A2zk3yKKaaRD393bs2XVUwMk=
 			</data>
 			<key>hash2</key>
 			<data>
-			wAJlHrDOzGdt3mVY9Gcem61PoEg+dXi/phpeJW5XDhc=
+			ajS9ptxU3PoDqxhcbXKHh+iP2EyM1NbPschjt9maB0k=
 			</data>
 		</dict>
 		<key>ios-arm64/BRLMPrinterKit.framework/BluetoothViewController.nib</key>
@@ -1419,33 +1635,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xNnk10NI4aKw+1kV76qgXQfJ0U8=
+			yoMbjrxxm4dT8sw8PVAA1NpdU+o=
 			</data>
 			<key>hash2</key>
 			<data>
-			HhuoTNQ5KBljGns6sSNaqgnxl67zu14JlUeEbzpkC+I=
+			cKxHD7X93MpGGXHyZj8e3nCOiJ9sgM2I3Hz3BP6/Nf0=
 			</data>
 		</dict>
 		<key>ios-arm64/BRLMPrinterKit.framework/Headers/BMSPrinterKit.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ktyZ2PF1m1Htb1S+2jM/+eX4tbs=
+			DMh3tcnxGO3PO+zf7t0NvKN+Gqw=
 			</data>
 			<key>hash2</key>
 			<data>
-			VK2UThWM4W9bu8ru/lKciMsMpx1BF2t/CPv+qVrLocc=
+			WdYRzrU0Kw0uItFcdiSw+ESgsdpi8xKLjFkB11ZaMfo=
 			</data>
 		</dict>
 		<key>ios-arm64/BRLMPrinterKit.framework/Headers/BRCustomPaperInfoCommand.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dlkKhGrM+dPrxWkJINgKjHejXOE=
+			24h6IdNooeUXuYQ/xPctpygYUSY=
 			</data>
 			<key>hash2</key>
 			<data>
-			hL60aGa6Ps/+DrKXISTuVK1BqDXpXq97jfxzGFiUPTg=
+			FLxAH9/ncRfuqQe+/s+/EygeUWYYueZQh07oADM51Qc=
 			</data>
 		</dict>
 		<key>ios-arm64/BRLMPrinterKit.framework/Headers/BRLMBLESearchOption.h</key>
@@ -1485,11 +1701,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TzdkLl7GnBtGFBfRJCCgYY0bz1k=
+			bYsS3A7WxhYg8A1agvxglMKkVx0=
 			</data>
 			<key>hash2</key>
 			<data>
-			4pwwbVgQV6UC57xKCIWbNxu46k7I+VmH0+doqIC/OrQ=
+			W9i7Ujfu92BSorSOj0WZQGfQpjlFdAsTLks0pFh2Htk=
 			</data>
 		</dict>
 		<key>ios-arm64/BRLMPrinterKit.framework/Headers/BRLMError.h</key>
@@ -1639,11 +1855,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TBUEOS92sWwPwUTr3XCZn2VLj4E=
+			GqBnAcA5sCFh9PzZfFsNf0BA3us=
 			</data>
 			<key>hash2</key>
 			<data>
-			v0J/qJI3DEiVYBe9UpJN9RJkZ+VloCqd1HLjPRdoAfo=
+			R1ZHV0Ttg7OxeEbsDdRMnTWEShJASktMM0gTl4jlaKk=
 			</data>
 		</dict>
 		<key>ios-arm64/BRLMPrinterKit.framework/Headers/BRLMPrintImageSettings.h</key>
@@ -1683,11 +1899,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			IKwA/iWhcoKGFBABWHssSHE2tyI=
+			APcB5Vn9gNEWYGPM/x6i3Ra7aHU=
 			</data>
 			<key>hash2</key>
 			<data>
-			ihXSxDiH9S8oWZcLvMmF4vjfAay3pxlwUxXsFp+Te/Q=
+			c5GTODbK8cQ2TLEVov08EyOrdzAMz54ULraLHIXoInA=
 			</data>
 		</dict>
 		<key>ios-arm64/BRLMPrinterKit.framework/Headers/BRLMPrinterDriver.h</key>
@@ -1782,11 +1998,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			O0PD08FZRNxH28iuJYp+fTea6/M=
+			WGPUBirFZOFqisPQCqJWVcWm1b4=
 			</data>
 			<key>hash2</key>
 			<data>
-			lRhbgdanbVM8Vw0bXrTC7O2e8Jdzx6DEGhvJ0JotrS8=
+			DlDT5KXV/WS3AaHIBiqz0w+uXTAq2ytvHZt+4cjshkM=
 			</data>
 		</dict>
 		<key>ios-arm64/BRLMPrinterKit.framework/Headers/BRLMPtouchDeviceDependedDataHeader.h</key>
@@ -1881,11 +2097,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			39DjPyh7dH3lEb2GrTfzHKl4E30=
+			yBjWVq5hp52iDb1om3kmIC/Oi/M=
 			</data>
 			<key>hash2</key>
 			<data>
-			yRknaEzLjkrglrmHDNcNUsA5rgNvnO/hhyg3eiNBEgo=
+			4T4KK93ZIv3a0qWc4k1o0mngiJzz4xI86C3paKrM92Q=
 			</data>
 		</dict>
 		<key>ios-arm64/BRLMPrinterKit.framework/Headers/BRLMTDTemplatePrintSettings.h</key>
@@ -2013,22 +2229,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4GoUqQ/U2RoeRWXW8ZtBcskVUac=
+			xf+DdCConVfNAJQVhiH3rON/dqo=
 			</data>
 			<key>hash2</key>
 			<data>
-			9VAJi5A248Wm9pdDUY118J9bI49nQj7Phh6wq+mrpaY=
+			d4EzcEoulBITf2tqGY1qi8YZ5kLr7zoXYIrrZY9Ao4w=
 			</data>
 		</dict>
 		<key>ios-arm64/BRLMPrinterKit.framework/Headers/BRPtouchPrinter.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6aIEP5XORulSGtGrmVe0ixd/FWY=
+			ftBWADbXN7iFIVCoiMt7oPtiqtI=
 			</data>
 			<key>hash2</key>
 			<data>
-			PFKf6abtzByYYFZwnLYprfyopUcU1RbjUg++6CW86qE=
+			j1zszxQKqowLokXXUk5m3Ri3KV4QuVgeZxjUhlgZ5+w=
 			</data>
 		</dict>
 		<key>ios-arm64/BRLMPrinterKit.framework/Headers/BRPtouchPrinterData.h</key>
@@ -2079,11 +2295,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wueofUMkX+gL2gYVwB45I1582Y0=
+			TFnWrJK9eP/c9kWQkDkSxxYX97o=
 			</data>
 			<key>hash2</key>
 			<data>
-			DYtFxraEeWosLhGZmfWAlN7VCgjlaBeMfALFJwMVVsI=
+			nuX9nV4zmJc/Nj6g4j7+En5/aA02rwNWz3aLkfquzsc=
 			</data>
 		</dict>
 		<key>ios-arm64/BRLMPrinterKit.framework/Headers/GenericMobileLabelModelPrintSettingsViewController.h</key>
@@ -2277,22 +2493,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/JqsyCH0/c5ZApMVs5kNNuEra3w=
+			YWOrexQpuZcVBchS0XTiVjdlono=
 			</data>
 			<key>hash2</key>
 			<data>
-			FT+QlyoJJvi9A9gq50ucZ/RJbvWhiSgJBcT3novRTVw=
+			GAfpgI40JgExUTuslWGmoUIeTcqZg3B73eU4j0ZYOuE=
 			</data>
 		</dict>
 		<key>ios-arm64/BRLMPrinterKit.framework/Headers/PrintSettingsViewController.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WBPFU45tQMt0L0NP/vd3RcZCa28=
+			rVp+Mc+s5S8U0ZSoVMSKT0mBmHA=
 			</data>
 			<key>hash2</key>
 			<data>
-			nCLchq0SKA7aQVWillc5sZac9Bu0xs41ce0WeoVAcvE=
+			CZId/K3UMtRCGn/1AS5Vufb3TWGIJOcRK726wkIoShE=
 			</data>
 		</dict>
 		<key>ios-arm64/BRLMPrinterKit.framework/Headers/RJ2050PrintSettings.h</key>
@@ -2541,11 +2757,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2Txw9X4A67JsjmeXsre8vOmnYOA=
+			wesEgELZ9G/hjS/gV2wrCzLglmk=
 			</data>
 			<key>hash2</key>
 			<data>
-			Id1JVEFUGXn8rSe1fPPdpxW7OdvuUChl7k/vjHCrGYY=
+			6AXl8iOW7M0PmNPnzqdLd67/8FGX/eiDbg/ve1ECS8M=
 			</data>
 		</dict>
 		<key>ios-arm64/BRLMPrinterKit.framework/Headers/RJ4230BPrintSettingsViewController.h</key>
@@ -2563,11 +2779,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			R2P2AwETMx65Nv21FKlBefP3ojE=
+			GiLEyt1gVvETWHHZEXqcVabuqio=
 			</data>
 			<key>hash2</key>
 			<data>
-			A+jDXGOOmAF6gmITjoaxymVJInhMeeEoFDhcdBFSDL0=
+			amBEXd/qMPuh3cJ6MpgfJY8nEXH46UurDF8cgd/H5vY=
 			</data>
 		</dict>
 		<key>ios-arm64/BRLMPrinterKit.framework/Headers/RJ4250WBPrintSettingsViewController.h</key>
@@ -2713,6 +2929,116 @@
 			eBetYHcOHRtwmuCm4iOJ9mBuGV0TsnLZQDeiNkU9ZC4=
 			</data>
 		</dict>
+		<key>ios-arm64/BRLMPrinterKit.framework/Headers/TD2320DFPrintSettings.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			eS9c0+ydold8C2jtOLkkReGqcgQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			45H/9vYpHWx2Xkhuh6WWrN62ZPc22Mr18pm5SYH4vRM=
+			</data>
+		</dict>
+		<key>ios-arm64/BRLMPrinterKit.framework/Headers/TD2320DFPrintSettingsViewController.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			IDPK2Zh97t1trvBH3716L8Gi3YE=
+			</data>
+			<key>hash2</key>
+			<data>
+			e9oBGejziARwp6FymhkUtvY4G9CDWGH9v4Z+7e9UhFs=
+			</data>
+		</dict>
+		<key>ios-arm64/BRLMPrinterKit.framework/Headers/TD2320DPrintSettings.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			eqiV58fpc/xfg1Ha+AdrNqlG6X4=
+			</data>
+			<key>hash2</key>
+			<data>
+			aVcb/XOkDPreSkKMleCrK/U/WxeK+TW0r1uQRQwxGT4=
+			</data>
+		</dict>
+		<key>ios-arm64/BRLMPrinterKit.framework/Headers/TD2320DPrintSettingsViewController.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kO2COmn8MT0wuHQ13ucNzUivXFA=
+			</data>
+			<key>hash2</key>
+			<data>
+			yu1iWt7k6GV0gRqnFN+hRtkZFoVxWvbqiwUxpnU5Ifs=
+			</data>
+		</dict>
+		<key>ios-arm64/BRLMPrinterKit.framework/Headers/TD2350DFPrintSettings.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YiQ1GWyS2zr45XyD2PSZG126ESs=
+			</data>
+			<key>hash2</key>
+			<data>
+			DmfIdo2CrZGTpimmzCyvKZ5eSwHMSdWrJ5b0+1sgjEU=
+			</data>
+		</dict>
+		<key>ios-arm64/BRLMPrinterKit.framework/Headers/TD2350DFPrintSettingsViewController.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			B0gOhdWCeiaJyOZFfb002DO/Drc=
+			</data>
+			<key>hash2</key>
+			<data>
+			YUS4dNOEzlV8Zdb6DeweQMp+YE2Q8WxjHo6jdWW0dqU=
+			</data>
+		</dict>
+		<key>ios-arm64/BRLMPrinterKit.framework/Headers/TD2350DPrintSettings.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/5yL2XPO9ntDQpVbGZOoz9HJ1pk=
+			</data>
+			<key>hash2</key>
+			<data>
+			s/yKk0s9/tmwEzIa8Wp/W+8yUhTVoFXypJVv6kfR7d8=
+			</data>
+		</dict>
+		<key>ios-arm64/BRLMPrinterKit.framework/Headers/TD2350DPrintSettingsViewController.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YgJ/tfoq9RL2ut2xTDVfCX2rxyk=
+			</data>
+			<key>hash2</key>
+			<data>
+			rxHBnwo2IRQQad1z8xOZupt+cTyvU9kSm6yFeEV2EDs=
+			</data>
+		</dict>
+		<key>ios-arm64/BRLMPrinterKit.framework/Headers/TD2350DSAPrintSettings.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			l6DQr0fqb5IXnWzcsxZ3CqiPSUA=
+			</data>
+			<key>hash2</key>
+			<data>
+			6keBzKirTJIRcpSTufIZcLz3RML7Tp4/2KwDQmJ0sxI=
+			</data>
+		</dict>
+		<key>ios-arm64/BRLMPrinterKit.framework/Headers/TD2350DSAPrintSettingsViewController.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			nODrWJ/UXuo3vsTgdWalYdSg8vM=
+			</data>
+			<key>hash2</key>
+			<data>
+			F0UUw3w07k8vUMxOj2UVmqfod9GZAzv8K5seiBJ+UnM=
+			</data>
+		</dict>
 		<key>ios-arm64/BRLMPrinterKit.framework/Headers/TD4550DNWBPrintSettings.h</key>
 		<dict>
 			<key>hash</key>
@@ -2761,11 +3087,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			aHDRbDAQbLjHiqT1q6gHcJLFaJw=
+			aDmAzHFQcSTkblM9r9/RpCEm6+4=
 			</data>
 			<key>hash2</key>
 			<data>
-			Rl7AMRlScXsAiMkS0/Wz6rUGr0P3XZ4/i/wMvEbFGwk=
+			yv8Q+USToCK/DIqFE9X+F8Gqufw4EOkHrMKMRH0TBdo=
 			</data>
 		</dict>
 		<key>ios-arm64/BRLMPrinterKit.framework/MarginViewController.nib</key>
@@ -2865,6 +3191,17 @@
 			<key>hash2</key>
 			<data>
 			TuGhT0OeRqelD6tXh9rKjmhTVgH52ebcqOd/cZ2JCfM=
+			</data>
+		</dict>
+		<key>ios-arm64/BRLMPrinterKit.framework/ResolutionViewController.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			p4c72H6yw/d9kJNwHiHznRXx35A=
+			</data>
+			<key>hash2</key>
+			<data>
+			b6OVvxthygEYW8BdFwmnC1HHx2T5bkQQHes51gxejEw=
 			</data>
 		</dict>
 		<key>ios-arm64/BRLMPrinterKit.framework/ThresholdViewController.nib</key>
@@ -3063,6 +3400,182 @@
 			<key>hash2</key>
 			<data>
 			ru7OT9obmAbgPnk8cDH3/Ob9VQaZE3fANSHIafaq2sI=
+			</data>
+		</dict>
+		<key>ios-arm64/BRLMPrinterKit.framework/bst2312ad.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			abN+zsK66sFdR9m+4WnwjfisQCI=
+			</data>
+			<key>hash2</key>
+			<data>
+			l3Q7f3on43HhdxU8Ik953KGr7AA2lV4xFrEI//N5hgw=
+			</data>
+		</dict>
+		<key>ios-arm64/BRLMPrinterKit.framework/bst2313ad.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1zTykdix/F/Pynz/lv4Szir+Ri0=
+			</data>
+			<key>hash2</key>
+			<data>
+			KbHbIAFBZaN+UAisDTaNmzzY91Z4bwu16gAWvka9PYM=
+			</data>
+		</dict>
+		<key>ios-arm64/BRLMPrinterKit.framework/bst2322ad.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xVAk0ekfVdCOVVu9aJUQ3b+KIr0=
+			</data>
+			<key>hash2</key>
+			<data>
+			lmQaenPkULwfUncpcXlOalIO8x3AZIG/HSUIJjXuU5g=
+			</data>
+		</dict>
+		<key>ios-arm64/BRLMPrinterKit.framework/bst2323ad.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DcYFeIvlHPA4uSlgCxy1ZlopHtY=
+			</data>
+			<key>hash2</key>
+			<data>
+			qq3W9aBdEo1+W/yuiacnxdAne40yuN/FSMsqFtpDZuQ=
+			</data>
+		</dict>
+		<key>ios-arm64/BRLMPrinterKit.framework/bst232f2ad.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			sJD2XZ2FUZRSgjvFiHH/VzMk97k=
+			</data>
+			<key>hash2</key>
+			<data>
+			8xHslgjOzhynuJnTP9GxxJG2Ac4ZQ4/zI0LqedYb6FA=
+			</data>
+		</dict>
+		<key>ios-arm64/BRLMPrinterKit.framework/bst232f3ad.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Io7hC4py4s1RKghfGHMh/ULMiCU=
+			</data>
+			<key>hash2</key>
+			<data>
+			5asNNrxv+hX1FcV/wcoDPDoWfcIcEt2dMvOJkZ3fGIg=
+			</data>
+		</dict>
+		<key>ios-arm64/BRLMPrinterKit.framework/bst232s2ad.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ru+2/08pcO45Gs9HeJ4xlX3iaBA=
+			</data>
+			<key>hash2</key>
+			<data>
+			4K3oxBGjOiKDzbBRB7BsqAjpJEmbi75AzehOxGrt6bE=
+			</data>
+		</dict>
+		<key>ios-arm64/BRLMPrinterKit.framework/bst232s3ad.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TJdpr7tCDTvsoxt2vuwERfS60vQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			zXIJI7ilx5ehHxE5GLbm5j3GbX/+bfcGMQvJd/tIFH8=
+			</data>
+		</dict>
+		<key>ios-arm64/BRLMPrinterKit.framework/bst2352ad.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Alw8134wRtQj4deFpvsAWnW6drY=
+			</data>
+			<key>hash2</key>
+			<data>
+			4E6Sy5sOF6nyVzectCnXC8WNFSjsd1SiayI3pbUEFvo=
+			</data>
+		</dict>
+		<key>ios-arm64/BRLMPrinterKit.framework/bst2353ad.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			osqXGVLMo2KEllPjO0X2ZGqARwI=
+			</data>
+			<key>hash2</key>
+			<data>
+			Q3SfFg6LlvP+OgClKaQeNalwyguWQrVtxpMhELnVglU=
+			</data>
+		</dict>
+		<key>ios-arm64/BRLMPrinterKit.framework/bst235f2ad.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yPXNmkWokaGuov/C9lsti5dGp7Y=
+			</data>
+			<key>hash2</key>
+			<data>
+			k49cfIVsdGQGm7ObADyrhVZTCiGAaW2czbnusds32bU=
+			</data>
+		</dict>
+		<key>ios-arm64/BRLMPrinterKit.framework/bst235f3ad.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ZcaejnQucLax5KZ5t19wdMlxoRQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			K7jnD3UYkp1aUeCPOaZbeK9hGWymnsjtiGWTrjaP8IA=
+			</data>
+		</dict>
+		<key>ios-arm64/BRLMPrinterKit.framework/bst235fs2ad.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LXggvWiaVUXv3lv7+45p1nSO5pw=
+			</data>
+			<key>hash2</key>
+			<data>
+			90rgPhEUnmePDgu8kU+orPXkp7eIgGEzV9Xh+tXSnUo=
+			</data>
+		</dict>
+		<key>ios-arm64/BRLMPrinterKit.framework/bst235fs3ad.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OuLxPTmnhzF7KGazcMplMp0LF1I=
+			</data>
+			<key>hash2</key>
+			<data>
+			kSWPwqsdvXjWifrQWP9aONi+NKYoYBLIJkLiOTX6tCk=
+			</data>
+		</dict>
+		<key>ios-arm64/BRLMPrinterKit.framework/bst235s2ad.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CN0BhBJW9f9oOjdFPRbbCD+EGCQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			BehdjZJfg4qYrpg4fsphOU60QyKwWnbBa0tq9yfWPSs=
+			</data>
+		</dict>
+		<key>ios-arm64/BRLMPrinterKit.framework/bst235s3ad.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mBufK9+IYgV+MnW2f1xsSmOQJPg=
+			</data>
+			<key>hash2</key>
+			<data>
+			AV/SWy1QBQjfVM8+AwrTplJtJiPKscSNcn1BHGpaUtQ=
 			</data>
 		</dict>
 		<key>ios-arm64/BRLMPrinterKit.framework/bst40ad.txt</key>
@@ -3192,11 +3705,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+Nlfv3CtljU4OvwFHwIEetnyofg=
+			8TdAOQIt/nfTICCqytQ++RkcKec=
 			</data>
 			<key>hash2</key>
 			<data>
-			H9nEcAev1QuEpo8k46FHuktxICY/QUEs/ey3l0G3ks8=
+			QgTPs4TBeUs6hefM5xtQW7+nbb+Mv8UaVUhEGaKTZJs=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/BluetoothViewController.nib</key>
@@ -3247,33 +3760,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xNnk10NI4aKw+1kV76qgXQfJ0U8=
+			yoMbjrxxm4dT8sw8PVAA1NpdU+o=
 			</data>
 			<key>hash2</key>
 			<data>
-			HhuoTNQ5KBljGns6sSNaqgnxl67zu14JlUeEbzpkC+I=
+			cKxHD7X93MpGGXHyZj8e3nCOiJ9sgM2I3Hz3BP6/Nf0=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/BMSPrinterKit.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ktyZ2PF1m1Htb1S+2jM/+eX4tbs=
+			DMh3tcnxGO3PO+zf7t0NvKN+Gqw=
 			</data>
 			<key>hash2</key>
 			<data>
-			VK2UThWM4W9bu8ru/lKciMsMpx1BF2t/CPv+qVrLocc=
+			WdYRzrU0Kw0uItFcdiSw+ESgsdpi8xKLjFkB11ZaMfo=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/BRCustomPaperInfoCommand.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dlkKhGrM+dPrxWkJINgKjHejXOE=
+			24h6IdNooeUXuYQ/xPctpygYUSY=
 			</data>
 			<key>hash2</key>
 			<data>
-			hL60aGa6Ps/+DrKXISTuVK1BqDXpXq97jfxzGFiUPTg=
+			FLxAH9/ncRfuqQe+/s+/EygeUWYYueZQh07oADM51Qc=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/BRLMBLESearchOption.h</key>
@@ -3313,11 +3826,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TzdkLl7GnBtGFBfRJCCgYY0bz1k=
+			bYsS3A7WxhYg8A1agvxglMKkVx0=
 			</data>
 			<key>hash2</key>
 			<data>
-			4pwwbVgQV6UC57xKCIWbNxu46k7I+VmH0+doqIC/OrQ=
+			W9i7Ujfu92BSorSOj0WZQGfQpjlFdAsTLks0pFh2Htk=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/BRLMError.h</key>
@@ -3467,11 +3980,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TBUEOS92sWwPwUTr3XCZn2VLj4E=
+			GqBnAcA5sCFh9PzZfFsNf0BA3us=
 			</data>
 			<key>hash2</key>
 			<data>
-			v0J/qJI3DEiVYBe9UpJN9RJkZ+VloCqd1HLjPRdoAfo=
+			R1ZHV0Ttg7OxeEbsDdRMnTWEShJASktMM0gTl4jlaKk=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/BRLMPrintImageSettings.h</key>
@@ -3511,11 +4024,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			IKwA/iWhcoKGFBABWHssSHE2tyI=
+			APcB5Vn9gNEWYGPM/x6i3Ra7aHU=
 			</data>
 			<key>hash2</key>
 			<data>
-			ihXSxDiH9S8oWZcLvMmF4vjfAay3pxlwUxXsFp+Te/Q=
+			c5GTODbK8cQ2TLEVov08EyOrdzAMz54ULraLHIXoInA=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/BRLMPrinterDriver.h</key>
@@ -3610,11 +4123,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			O0PD08FZRNxH28iuJYp+fTea6/M=
+			WGPUBirFZOFqisPQCqJWVcWm1b4=
 			</data>
 			<key>hash2</key>
 			<data>
-			lRhbgdanbVM8Vw0bXrTC7O2e8Jdzx6DEGhvJ0JotrS8=
+			DlDT5KXV/WS3AaHIBiqz0w+uXTAq2ytvHZt+4cjshkM=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/BRLMPtouchDeviceDependedDataHeader.h</key>
@@ -3709,11 +4222,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			39DjPyh7dH3lEb2GrTfzHKl4E30=
+			yBjWVq5hp52iDb1om3kmIC/Oi/M=
 			</data>
 			<key>hash2</key>
 			<data>
-			yRknaEzLjkrglrmHDNcNUsA5rgNvnO/hhyg3eiNBEgo=
+			4T4KK93ZIv3a0qWc4k1o0mngiJzz4xI86C3paKrM92Q=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/BRLMTDTemplatePrintSettings.h</key>
@@ -3841,22 +4354,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4GoUqQ/U2RoeRWXW8ZtBcskVUac=
+			xf+DdCConVfNAJQVhiH3rON/dqo=
 			</data>
 			<key>hash2</key>
 			<data>
-			9VAJi5A248Wm9pdDUY118J9bI49nQj7Phh6wq+mrpaY=
+			d4EzcEoulBITf2tqGY1qi8YZ5kLr7zoXYIrrZY9Ao4w=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/BRPtouchPrinter.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6aIEP5XORulSGtGrmVe0ixd/FWY=
+			ftBWADbXN7iFIVCoiMt7oPtiqtI=
 			</data>
 			<key>hash2</key>
 			<data>
-			PFKf6abtzByYYFZwnLYprfyopUcU1RbjUg++6CW86qE=
+			j1zszxQKqowLokXXUk5m3Ri3KV4QuVgeZxjUhlgZ5+w=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/BRPtouchPrinterData.h</key>
@@ -3907,11 +4420,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wueofUMkX+gL2gYVwB45I1582Y0=
+			TFnWrJK9eP/c9kWQkDkSxxYX97o=
 			</data>
 			<key>hash2</key>
 			<data>
-			DYtFxraEeWosLhGZmfWAlN7VCgjlaBeMfALFJwMVVsI=
+			nuX9nV4zmJc/Nj6g4j7+En5/aA02rwNWz3aLkfquzsc=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/GenericMobileLabelModelPrintSettingsViewController.h</key>
@@ -4105,22 +4618,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/JqsyCH0/c5ZApMVs5kNNuEra3w=
+			YWOrexQpuZcVBchS0XTiVjdlono=
 			</data>
 			<key>hash2</key>
 			<data>
-			FT+QlyoJJvi9A9gq50ucZ/RJbvWhiSgJBcT3novRTVw=
+			GAfpgI40JgExUTuslWGmoUIeTcqZg3B73eU4j0ZYOuE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/PrintSettingsViewController.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WBPFU45tQMt0L0NP/vd3RcZCa28=
+			rVp+Mc+s5S8U0ZSoVMSKT0mBmHA=
 			</data>
 			<key>hash2</key>
 			<data>
-			nCLchq0SKA7aQVWillc5sZac9Bu0xs41ce0WeoVAcvE=
+			CZId/K3UMtRCGn/1AS5Vufb3TWGIJOcRK726wkIoShE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/RJ2050PrintSettings.h</key>
@@ -4369,11 +4882,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2Txw9X4A67JsjmeXsre8vOmnYOA=
+			wesEgELZ9G/hjS/gV2wrCzLglmk=
 			</data>
 			<key>hash2</key>
 			<data>
-			Id1JVEFUGXn8rSe1fPPdpxW7OdvuUChl7k/vjHCrGYY=
+			6AXl8iOW7M0PmNPnzqdLd67/8FGX/eiDbg/ve1ECS8M=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/RJ4230BPrintSettingsViewController.h</key>
@@ -4391,11 +4904,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			R2P2AwETMx65Nv21FKlBefP3ojE=
+			GiLEyt1gVvETWHHZEXqcVabuqio=
 			</data>
 			<key>hash2</key>
 			<data>
-			A+jDXGOOmAF6gmITjoaxymVJInhMeeEoFDhcdBFSDL0=
+			amBEXd/qMPuh3cJ6MpgfJY8nEXH46UurDF8cgd/H5vY=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/RJ4250WBPrintSettingsViewController.h</key>
@@ -4541,6 +5054,116 @@
 			eBetYHcOHRtwmuCm4iOJ9mBuGV0TsnLZQDeiNkU9ZC4=
 			</data>
 		</dict>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/TD2320DFPrintSettings.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			eS9c0+ydold8C2jtOLkkReGqcgQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			45H/9vYpHWx2Xkhuh6WWrN62ZPc22Mr18pm5SYH4vRM=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/TD2320DFPrintSettingsViewController.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			IDPK2Zh97t1trvBH3716L8Gi3YE=
+			</data>
+			<key>hash2</key>
+			<data>
+			e9oBGejziARwp6FymhkUtvY4G9CDWGH9v4Z+7e9UhFs=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/TD2320DPrintSettings.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			eqiV58fpc/xfg1Ha+AdrNqlG6X4=
+			</data>
+			<key>hash2</key>
+			<data>
+			aVcb/XOkDPreSkKMleCrK/U/WxeK+TW0r1uQRQwxGT4=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/TD2320DPrintSettingsViewController.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kO2COmn8MT0wuHQ13ucNzUivXFA=
+			</data>
+			<key>hash2</key>
+			<data>
+			yu1iWt7k6GV0gRqnFN+hRtkZFoVxWvbqiwUxpnU5Ifs=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/TD2350DFPrintSettings.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YiQ1GWyS2zr45XyD2PSZG126ESs=
+			</data>
+			<key>hash2</key>
+			<data>
+			DmfIdo2CrZGTpimmzCyvKZ5eSwHMSdWrJ5b0+1sgjEU=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/TD2350DFPrintSettingsViewController.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			B0gOhdWCeiaJyOZFfb002DO/Drc=
+			</data>
+			<key>hash2</key>
+			<data>
+			YUS4dNOEzlV8Zdb6DeweQMp+YE2Q8WxjHo6jdWW0dqU=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/TD2350DPrintSettings.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/5yL2XPO9ntDQpVbGZOoz9HJ1pk=
+			</data>
+			<key>hash2</key>
+			<data>
+			s/yKk0s9/tmwEzIa8Wp/W+8yUhTVoFXypJVv6kfR7d8=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/TD2350DPrintSettingsViewController.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YgJ/tfoq9RL2ut2xTDVfCX2rxyk=
+			</data>
+			<key>hash2</key>
+			<data>
+			rxHBnwo2IRQQad1z8xOZupt+cTyvU9kSm6yFeEV2EDs=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/TD2350DSAPrintSettings.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			l6DQr0fqb5IXnWzcsxZ3CqiPSUA=
+			</data>
+			<key>hash2</key>
+			<data>
+			6keBzKirTJIRcpSTufIZcLz3RML7Tp4/2KwDQmJ0sxI=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/TD2350DSAPrintSettingsViewController.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			nODrWJ/UXuo3vsTgdWalYdSg8vM=
+			</data>
+			<key>hash2</key>
+			<data>
+			F0UUw3w07k8vUMxOj2UVmqfod9GZAzv8K5seiBJ+UnM=
+			</data>
+		</dict>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/Headers/TD4550DNWBPrintSettings.h</key>
 		<dict>
 			<key>hash</key>
@@ -4589,11 +5212,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8xTTpUIKl1JfS6PIdmrxpSqIRjQ=
+			j2j0AWzEgxgRGbeiTNNlvkrkPHE=
 			</data>
 			<key>hash2</key>
 			<data>
-			Cwv0/CQdu06CoPsoPTyL2CnjEuQT63hDIzrneCE2Nfw=
+			af50Zd97baYpc+nvzZT2dNAnEjn5lq7kYSACJ4rKw6k=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/MarginViewController.nib</key>
@@ -4695,6 +5318,17 @@
 			TuGhT0OeRqelD6tXh9rKjmhTVgH52ebcqOd/cZ2JCfM=
 			</data>
 		</dict>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/ResolutionViewController.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			p4c72H6yw/d9kJNwHiHznRXx35A=
+			</data>
+			<key>hash2</key>
+			<data>
+			b6OVvxthygEYW8BdFwmnC1HHx2T5bkQQHes51gxejEw=
+			</data>
+		</dict>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/ThresholdViewController.nib</key>
 		<dict>
 			<key>hash</key>
@@ -4710,11 +5344,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0GuQQW7LrrhmlWcH5gKv/ZVkfk4=
+			PfiT8XR0pWoC8x4XJB92PwiveKc=
 			</data>
 			<key>hash2</key>
 			<data>
-			PDAnigUQNcPtUKz6oqJ0Dy19Aj7VFkWgnc7zyDHAewM=
+			N6J4B7aBvj8Zj3Ytxei2HgJs9p2eFZgawDOjqfcZTeU=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/bsj673ad.ptd</key>
@@ -4902,6 +5536,182 @@
 			<key>hash2</key>
 			<data>
 			ru7OT9obmAbgPnk8cDH3/Ob9VQaZE3fANSHIafaq2sI=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/bst2312ad.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			abN+zsK66sFdR9m+4WnwjfisQCI=
+			</data>
+			<key>hash2</key>
+			<data>
+			l3Q7f3on43HhdxU8Ik953KGr7AA2lV4xFrEI//N5hgw=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/bst2313ad.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1zTykdix/F/Pynz/lv4Szir+Ri0=
+			</data>
+			<key>hash2</key>
+			<data>
+			KbHbIAFBZaN+UAisDTaNmzzY91Z4bwu16gAWvka9PYM=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/bst2322ad.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xVAk0ekfVdCOVVu9aJUQ3b+KIr0=
+			</data>
+			<key>hash2</key>
+			<data>
+			lmQaenPkULwfUncpcXlOalIO8x3AZIG/HSUIJjXuU5g=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/bst2323ad.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DcYFeIvlHPA4uSlgCxy1ZlopHtY=
+			</data>
+			<key>hash2</key>
+			<data>
+			qq3W9aBdEo1+W/yuiacnxdAne40yuN/FSMsqFtpDZuQ=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/bst232f2ad.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			sJD2XZ2FUZRSgjvFiHH/VzMk97k=
+			</data>
+			<key>hash2</key>
+			<data>
+			8xHslgjOzhynuJnTP9GxxJG2Ac4ZQ4/zI0LqedYb6FA=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/bst232f3ad.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Io7hC4py4s1RKghfGHMh/ULMiCU=
+			</data>
+			<key>hash2</key>
+			<data>
+			5asNNrxv+hX1FcV/wcoDPDoWfcIcEt2dMvOJkZ3fGIg=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/bst232s2ad.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ru+2/08pcO45Gs9HeJ4xlX3iaBA=
+			</data>
+			<key>hash2</key>
+			<data>
+			4K3oxBGjOiKDzbBRB7BsqAjpJEmbi75AzehOxGrt6bE=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/bst232s3ad.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TJdpr7tCDTvsoxt2vuwERfS60vQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			zXIJI7ilx5ehHxE5GLbm5j3GbX/+bfcGMQvJd/tIFH8=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/bst2352ad.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Alw8134wRtQj4deFpvsAWnW6drY=
+			</data>
+			<key>hash2</key>
+			<data>
+			4E6Sy5sOF6nyVzectCnXC8WNFSjsd1SiayI3pbUEFvo=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/bst2353ad.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			osqXGVLMo2KEllPjO0X2ZGqARwI=
+			</data>
+			<key>hash2</key>
+			<data>
+			Q3SfFg6LlvP+OgClKaQeNalwyguWQrVtxpMhELnVglU=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/bst235f2ad.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yPXNmkWokaGuov/C9lsti5dGp7Y=
+			</data>
+			<key>hash2</key>
+			<data>
+			k49cfIVsdGQGm7ObADyrhVZTCiGAaW2czbnusds32bU=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/bst235f3ad.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ZcaejnQucLax5KZ5t19wdMlxoRQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			K7jnD3UYkp1aUeCPOaZbeK9hGWymnsjtiGWTrjaP8IA=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/bst235fs2ad.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LXggvWiaVUXv3lv7+45p1nSO5pw=
+			</data>
+			<key>hash2</key>
+			<data>
+			90rgPhEUnmePDgu8kU+orPXkp7eIgGEzV9Xh+tXSnUo=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/bst235fs3ad.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OuLxPTmnhzF7KGazcMplMp0LF1I=
+			</data>
+			<key>hash2</key>
+			<data>
+			kSWPwqsdvXjWifrQWP9aONi+NKYoYBLIJkLiOTX6tCk=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/bst235s2ad.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CN0BhBJW9f9oOjdFPRbbCD+EGCQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			BehdjZJfg4qYrpg4fsphOU60QyKwWnbBa0tq9yfWPSs=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/bst235s3ad.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mBufK9+IYgV+MnW2f1xsSmOQJPg=
+			</data>
+			<key>hash2</key>
+			<data>
+			AV/SWy1QBQjfVM8+AwrTplJtJiPKscSNcn1BHGpaUtQ=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/BRLMPrinterKit.framework/bst40ad.txt</key>
