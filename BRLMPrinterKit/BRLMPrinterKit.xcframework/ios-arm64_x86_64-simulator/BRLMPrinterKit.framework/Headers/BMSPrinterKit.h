@@ -41,6 +41,11 @@
 #import <BRLMPrinterKit/TD2130NPrintSettings.h>
 #import <BRLMPrinterKit/TD2135NPrintSettings.h>
 #import <BRLMPrinterKit/TD2135NWBPrintSettings.h>
+#import <BRLMPrinterKit/TD2320DPrintSettings.h>
+#import <BRLMPrinterKit/TD2320DFPrintSettings.h>
+#import <BRLMPrinterKit/TD2350DPrintSettings.h>
+#import <BRLMPrinterKit/TD2350DFPrintSettings.h>
+#import <BRLMPrinterKit/TD2350DSAPrintSettings.h>
 #import <BRLMPrinterKit/TD4550DNWBPrintSettings.h>
 
 #import <BRLMPrinterKit/PrintSettingsViewController.h>
@@ -71,6 +76,11 @@
 #import <BRLMPrinterKit/TD2130NPrintSettingsViewController.h>
 #import <BRLMPrinterKit/TD2135NPrintSettingsViewController.h>
 #import <BRLMPrinterKit/TD2135NWBPrintSettingsViewController.h>
+#import <BRLMPrinterKit/TD2320DPrintSettingsViewController.h>
+#import <BRLMPrinterKit/TD2320DFPrintSettingsViewController.h>
+#import <BRLMPrinterKit/TD2350DPrintSettingsViewController.h>
+#import <BRLMPrinterKit/TD2350DFPrintSettingsViewController.h>
+#import <BRLMPrinterKit/TD2350DSAPrintSettingsViewController.h>
 #import <BRLMPrinterKit/TD4550DNWBPrintSettingsViewController.h>
 
 @interface BMSPrinterKit : NSObject

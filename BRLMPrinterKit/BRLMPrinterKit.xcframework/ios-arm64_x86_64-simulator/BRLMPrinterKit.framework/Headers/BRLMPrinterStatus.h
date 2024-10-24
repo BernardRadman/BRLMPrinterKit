@@ -58,7 +58,9 @@ typedef NS_ENUM(NSInteger, BRLMPrinterStatusErrorCode) {
     BRLMPrinterStatusErrorCodeBatteryEmpty,
     BRLMPrinterStatusErrorCodeBatteryTrouble,
     BRLMPrinterStatusErrorCodeTubeNotDetected,
+    BRLMPrinterStatusErrorCodeMotorSlow,
     BRLMPrinterStatusErrorCodeUnsupportedCharger,
+    BRLMPrinterStatusErrorCodeIncompatibleOptionalEquipment,
     BRLMPrinterStatusErrorCodeSystemError,
     BRLMPrinterStatusErrorCodeAnotherError,
 };

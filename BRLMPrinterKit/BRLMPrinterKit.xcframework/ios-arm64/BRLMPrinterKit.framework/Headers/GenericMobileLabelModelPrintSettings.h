@@ -33,7 +33,7 @@
     int _extraFeedMax;
 
     unsigned char _energyRankMax; // min is always 0. Max depends on printer model.
-    // TD-4D is +/-5, all others are +/-2 for sensor threshold adjust.
+    // TD-4D and TD2a is +/-5, all others are +/-2 for sensor threshold adjust.
     signed char _sensThrAdjMin;
     signed char _sensThrAdjMax;
     // NOTE: All models are +/-2 for sensor duty adjust, so not adding min/max for that one yet.
@@ -224,5 +224,12 @@
 - (NSString *)stringFromExtraFeed:(int)extraFeed;
 - (NSString *)stringFromDensity: (DENSITY)density;
 
+
+//*** TD23xx function only. Adding here so we don't have to implement in each subclass,
+// and adding to this Generic interface avoids a warning.
+-(NSString *)stringFromResolution:(RESOLUTION)resolution;
+
+-(void)updatePaperInfoFromOldResolution:(RESOLUTION)old
+                        toNewResolution:(RESOLUTION)new;
 
 @end

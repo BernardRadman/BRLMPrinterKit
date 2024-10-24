@@ -146,5 +146,5 @@ static const int ROTATE_270 = 0x03;
 @property   (assign,nonatomic)int       nBiColorRedEnhancement;
 @property   (assign,nonatomic)int       nBiColorGreenEnhancement;
 @property   (assign,nonatomic)int       nBiColorBlueEnhancement;
-
+@property   (copy,nonatomic)NSString*   strCustomRecord;
 @end

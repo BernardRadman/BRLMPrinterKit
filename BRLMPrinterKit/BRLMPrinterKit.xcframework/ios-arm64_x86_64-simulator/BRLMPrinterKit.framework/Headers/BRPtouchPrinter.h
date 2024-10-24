@@ -79,7 +79,9 @@
 #define ERROR_MINIMUM_LENGTH_LIMIT_ -58
 #define ERROR_FAIL_TO_CONVERT_CSV_TO_BLF_ -59
 #define ERROR_RESOLUTION_MODE_ -60
+#define ERROR_MOTOR_SLOW_ -61
 #define ERROR_UNSUPPORTED_USB_CHARGER_ -62
+#define ERROR_UNSUPPORTED_OPTIONAL_EQUIPMENT_ -63
 
 
 //  Message value
@@ -211,6 +213,7 @@ extern NSString *const BRMessageKey;
 - (id)initWithPrinterName:(NSString*)strPrinterName interface:(CONNECTION_TYPE)type;
 - (NSString *)printerName;
 - (BOOL)setPrinterName:(NSString*)strPrinterName;
+- (void)setPrinterNameFromStatus:(BRPtouchPrinterStatus*)status;
 - (void)setPrintInfo:(BRPtouchPrintInfo*)printInfo;
 - (BOOL)setCustomPaperFile:(NSString*)strFilePath;
 - (NSArray *)setCustomPaperInfoCommand:(BRCustomPaperInfoCommand *)customPaperInfoCommand;
